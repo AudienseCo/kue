@@ -14,5 +14,5 @@
     , "async": "0.1.x"
   }
   , "main": "index"
-  , "engines": { "node": ">= 0.4.0 < 0.7.0" }
+  , "engines": { "node": ">= 0.4.0" }
 }
