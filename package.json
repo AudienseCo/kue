@@ -1,11 +1,11 @@
 {
     "name": "kue"
-  , "version": "0.3.93"
+  , "version": "0.3.94"
   , "description": "Feature rich priority job queue backed by redis"
   , "keywords": ["redis", "job", "queue", "worker", "redis"]
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
   , "dependencies": {
-      "redis": "0.7.1"
+      "redis": "0.8.2"
     , "express": "2.5.0"
     , "jade": "0.17.0"
     , "stylus": "0.19.2"
